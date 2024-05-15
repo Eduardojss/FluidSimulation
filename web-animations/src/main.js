@@ -1,0 +1,1 @@
+document.getElementsByClassName(".opacity").style = "opacity: 0;"
